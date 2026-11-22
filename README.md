@@ -9,6 +9,7 @@ I am passionate about continuously improving my analytical and problem-solving s
 As an aspiring Data Analyst, I am excited to apply my skills in a professional environment, contribute to data-driven solutions, and continue growing my career in the data analytics industry.
 
 My CV as of November 2026. [Samuel_Saunders-Foxall_Data_Analyst_CV November 2026.docx](https://github.com/user-attachments/files/35228566/Samuel_Saunders-Foxall_Data_Analyst_CV.November.2026.docx)
+
 email: ssaundersfoxall@gmail.com
 
 
