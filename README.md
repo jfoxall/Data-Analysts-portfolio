@@ -11,5 +11,6 @@ As an aspiring Data Analyst, I am excited to apply my skills in a professional e
 My CV as of November 2026. [Samuel_Saunders-Foxall_Data_Analyst_CV November 2026.docx](https://github.com/user-attachments/files/35228566/Samuel_Saunders-Foxall_Data_Analyst_CV.November.2026.docx)
 
 email: ssaundersfoxall@gmail.com
+Linkdein: https://www.linkedin.com/in/samuel-saunders-foxall-71b738362/
 
 
